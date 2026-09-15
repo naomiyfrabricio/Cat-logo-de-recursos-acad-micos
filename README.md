@@ -35,3 +35,5 @@ Ver `requirements.txt` para la lista completa de bibliotecas necesarias.
 - Implementar búsqueda y filtrado de recursos.
 - Agregar sistema de recomendaciones.
 - Crear interfaz de usuario para consulta del catálogo.
+
+## Tipos de recursos"
